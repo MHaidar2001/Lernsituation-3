@@ -1,3 +1,2 @@
 # Lernsituation-3
-Lernsituation 3
-Mohamad Haidar
+https://github.com/MHaidar2001/Lernsituation-3
